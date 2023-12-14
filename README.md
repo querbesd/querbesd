@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @querbesd
-- 👀 I’m interested in tech/digital env
-- 🌱 I’m currently learning blockchain
+- 👀 My background is in digital/tech company
+- 🌱 I help start-ups / scale-ups to better leverage their data either by making it available for the teams or by using it in prediction models.  
 - 📫 How to reach me querbes.damien@gmail.com
 
 <!---
