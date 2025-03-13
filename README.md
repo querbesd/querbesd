@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @querbesd
 - 👀 My background is in digital/tech company
-- 🌱 I help start-ups / scale-ups to better leverage their data either by making it available for the teams or by using it in prediction models.  
+- 🌱 I help start-ups / scale-ups to better leverage their data either by making it accessible for the business teams or predicting metrics and future trends.   
 - 📫 How to reach me querbes.damien@gmail.com
 
 <!---
