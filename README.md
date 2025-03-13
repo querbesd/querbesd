@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @querbesd
-- 👀 My background is in digital/tech company
+- 👀 My background is in digital/tech companies
 - 🌱 I help start-ups / scale-ups to better leverage their data either by making it accessible for the business teams or predicting metrics and future trends.   
 - 📫 How to reach me querbes.damien@gmail.com
 
